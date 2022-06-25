@@ -1,1 +1,2 @@
-# parse_briefly
+# Программа для парсинга сайта брифли https://briefly.ru/
+
